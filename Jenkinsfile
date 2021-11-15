@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Stage 1') {
             steps {
-                echo '*** Hello world! Test Pooling 123456789***' 
+                echo '*** Hello world! Test Pooling 1***' 
             }
         }
     }
