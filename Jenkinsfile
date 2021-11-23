@@ -11,7 +11,7 @@ pipeline {
                 echo '*** Validation - Run Unit Test ***' 
             }
         }
-        stage('Stage 3 - Run Integartion test') {
+        stage('Stage 3 - Run Integration test') {
             steps {
                 echo '*** Validation - Run Integration Test ***' 
             }
