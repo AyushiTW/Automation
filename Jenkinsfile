@@ -13,7 +13,7 @@ pipeline {
         }
         stage('Stage 3 - Run Integration test') {
             steps {
-                echo '*** Validation - Run Integration Test ***' 
+                echo '*** Validation - Run Integration Test 1 ***' 
             }
         }
     }
